@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935381746988",
+    "project_id": "fridge-feast-al7kv",
+    "storage_bucket": "fridge-feast-al7kv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935381746988:android:6023b04fd6615aebafd889",
+        "android_client_info": {
+          "package_name": "com.example.login_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXZClTK_Nqj5FJjYyaxYiiiF5GoGKe80I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
